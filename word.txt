@@ -1,0 +1,15 @@
+iop;iop;iop;2
+bother;0;0;0
+meriter;to;to;0
+deserve;0;0;0
+qwe;qwe;qwe;2
+walegen;yolo;pol;0
+bonjour;hello;hey;1
+zxc;zxc;zxc;1
+asd;asd;asd;1
+deranger;to;to;0
+ouai;emilien;yes;0
+souvent;often;0;1
+rarement;seldom;0;1
+ert;ert;ert;2
+asd;lol olo;asd;4
