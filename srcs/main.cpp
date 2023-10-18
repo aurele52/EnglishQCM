@@ -26,13 +26,17 @@ int	main(int argc, char** argv)
 				if (std::cin.eof())
 					return (0);
 			}
-			while (fr.length() == 0)
+			if (eng == "fr")
 			{
-				std::cout << "fr:";
-				std::getline(std::cin, fr);
-				if (std::cin.eof())
-					return (0);
+				while (fr.length() == 0)
+				{
+					std::cout << "fr: ";
+					std::getline(std::cin, fr);
+					if (std::cin.eof())
+						return (0);
+				}
 			}
+			qcm.translate(eng, fr);
 			while (hint.length() == 0)
 			{
 				std::cout << "hint:";
@@ -57,8 +61,6 @@ int	main(int argc, char** argv)
 			}
 			qcm.start(number[0] - '0');
 		}
-		else if (test == "TEST")
-			qcm.api("");
 		else if (test != "EXIT")
 			std::cout << "instruction must be ADD or START or EXIT" << std::endl;
 	}

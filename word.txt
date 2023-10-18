@@ -1,15 +1,314 @@
-iop;iop;iop;2
-bother;0;0;0
-meriter;to;to;0
-deserve;0;0;0
-qwe;qwe;qwe;2
-walegen;yolo;pol;0
-bonjour;hello;hey;1
-zxc;zxc;zxc;1
-asd;asd;asd;1
-deranger;to;to;0
-ouai;emilien;yes;0
+deranger;to bother;0;0
+meriter;to deserve;0;0
 souvent;often;0;1
-rarement;seldom;0;1
-ert;ert;ert;2
-asd;lol olo;asd;4
+rarement;seldom;0;0
+mort;death;0;0
+moyen;mean;0;0
+mechant;wicked;0;0
+cigale;cicada;0;0
+venger;avenge;0;0
+difficulter;hardships;0;0
+une somme conciderable;sheer amount;0;0
+pour le bien;for the sake;0;0
+mendier;beg;0;0
+se cacher;lurks;0;0
+moyen;means;0;0
+indice;clue;0;0
+reverie;daydreaming;0;0
+lustre;luster;0;0
+comme;as;0;0
+lambaux;shreds;0;0
+croire;believe;0;0
+crache;spits;0;0
+donc;therefor;0;0
+Jeune enfant apprentit;younglings;0;0
+effondrement;collapse;0;0
+vers;toward;0;0
+calmement;quietly;0;0
+decision;ruling;0;0
+esprit malefique;fiends;0;0
+menage;household;0;0
+morveux;brat;0;0
+blessure;wounds;0;0
+auberge;inn;0;0
+devise;motto;0;0
+accablante;overwhelming;0;0
+froid/frai;chilly;0;0
+hematome;bruise;0;0
+reaprovisionner;replenshing;0;0
+patauger;floundering;0;0
+Mon tout ; mon ensemble ;;My whole;0;0
+etonnante;uncanny;0;0
+sommet;apex;0;0
+pleure;cried;0;0
+aigri;embittered;0;0
+ruse;cunning;0;0
+Rien;n’importe quoi;anything;0;0
+docilement;obediently;0;0
+verger;orchard;0;0
+De toute facon;anyway;0;0
+assez;enough;0;0
+gallet;pebble;0;0
+voila;Here it is;0;0
+encors;yet;0;0
+cependant;however;0;0
+santer;cheers;0;0
+dechet;waste;0;0
+terrain;pitch;0;0
+serveur;waiter;0;0
+se soucier;care;0;0
+louer;To rent;0;0
+apporter;To bring;0;0
+se prelasser;lounging;0;0
+Suisse;switzerland;0;0
+colporter/repandre;peddle;0;0
+abandonner;forgone;0;0
+un peu pres;roughly;0;0
+fouet;whip;0;0
+scelerat;scoundrel;0;0
+regler;settle;0;0
+moyenne;average;0;0
+allocation/argent de poche;allowance;0;0
+chaines;fetters;0;0
+assoiffer;thirsty;0;0
+voler;robbing;0;0
+Un repas;A meal;0;0
+sembler;seems;0;0
+famine;starvation;0;0
+Donner avec solenniter;bestow;0;0
+assister a;attend;0;0
+tripe/entraille;guts;0;0
+benir;bless;0;0
+paume de ma main;palm of my hand;0;0
+haine;hatred;0;0
+sagesse;wisdom;0;0
+idiot;fool;0;0
+culminer;peak;0;0
+envie;urge;0;0
+vue;sight;0;0
+Un neveu;A nephew;0;0
+Un client;A customer;0;0
+chercher;seeking;0;0
+destin;fate;0;0
+conceiller;advise;0;0
+gemissement;whining;0;0
+s'agiter;fuss;0;0
+resister;withstand;0;0
+valeur;worth;0;0
+pire;worse;0;0
+Une boisson gazeuse;A soda pop;0;0
+faufiler;snuck;0;0
+heritage;legacy;0;0
+colonne vertebrale;spine;0;0
+manquer;lacking;0;0
+pari;gamble;0;0
+Une fille;A daughter;0;0
+feroce;fierce;0;0
+jouet;plaything;0;0
+Aller chercher;fetching;0;0
+recadrer;frame;0;0
+bagarre;brawl;0;0
+Un accompagnement (repas);A side dish;0;0
+possession;own;0;0
+Seduisant ; beau;good-looking;0;0
+Quelque;peu de;few;0;0
+prosterner;kowtow;0;0
+sans plus tarder;without futher ado ;0;0
+leurre/attirer;lure;0;0
+compter sur;rely;0;0
+assez;quite;0;0
+enseignee;taught;0;0
+duper;tricking;0;0
+comportement;behavior;0;0
+Un billet ; une facture;A bill;0;0
+peigner;To comb;0;0
+soupir;sigh;0;0
+simple;mere;0;0
+stupide;dumb;0;0
+massacre;slaugh;0;0
+Lever de soleil;sunrise;0;0
+Sur place;Eat in;0;0
+Les enjeux;The stakes;0;0
+permettre;afford;0;0
+A porter de main;At hand;0;0
+ancien moi;former self;0;0
+boulversee;upset;0;0
+coucher;lying;0;0
+faible;dim;0;0
+en particulier;especially;0;0
+frite;fries;0;0
+reconnu;acknowledged;0;0
+sourd;deaf;0;0
+cieux;heavens;0;0
+Depeche toi;Hurry up;0;0
+prealablement;beforehand;0;0
+atout;trump;0;0
+acheter au passer;bought;0;0
+renforcer;strengthen;0;0
+combattre au passer;fought;0;0
+toux;cough;0;0
+Se passer;To happen;0;0
+judicieusement;wisely;0;0
+incarner;embody;0;0
+lier;bind;0;0
+arracher;snatch;0;0
+voici;Here you go;0;0
+enfoncer;ramming;0;0
+aspire;yearn;0;0
+racaille/ecume;scum;0;0
+rive;shore;0;0
+difficile;tough;0;0
+clignoter;blink;0;0
+gaspillage;wasting;0;0
+a partir de;onwards;0;0
+A emporter;take-out;0;0
+parcelle;plot;0;0
+connaissance;acquaintance;0;0
+tromper;deceiving;0;0
+digne;worthy;0;0
+au-dela;beyond;0;0
+Pour;afin;In order;0;0
+apercu;Glimpse;0;0
+bouquet;bunch;0;0
+course;errand;0;0
+sournois;underhanded;0;0
+appartenir;belonging;0;0
+une jupe;a skirt;0;0
+trebucher;tripped;0;0
+revers;setback;0;0
+a bord;aboard;0;0
+faire des pattiserie;bake;0;0
+fallacieux;misleading;0;0
+Enfant encors en train d’apprendre;youngster;0;0
+rassembler;mustered;0;0
+plutot;rather;0;0
+cesser;cease;0;0
+crasseux;filthy;0;0
+penser appraufondi /examiner tous les aspect;thought;0;0
+inflexible;unyelding;0;0
+bobine;coil;0;0
+prouesse;prowess;0;0
+Metier a tisser;Loom;0;0
+Moi non plus;Me neither;0;0
+jolie;pretty;0;0
+mince;thin;0;0
+acolyte;sidekick;0;0
+Coucher de soleil;Sun set;0;0
+se relever;raising;0;0
+extase;ecsatsy;0;0
+souffler;blown;0;0
+declin;waning;0;0
+depuis;since;0;0
+meme;even;0;0
+ainee;elder;0;0
+dechirer;torn;0;0
+Un mari;A husband;0;0
+ouverture;aperture;0;0
+insupportable;unbearable;0;0
+mechant;nasty;0;0
+changement;shift;0;0
+partout;wherever;0;0
+vantardise;bragging;0;0
+indemne;unscathed;0;0
+tout a fait;utterly;0;0
+ressentiment;resentment;0;0
+membres;limbs;0;0
+a partir de;onwards;0;0
+subissant;undergoing;0;0
+peur;affraid;0;0
+Une cuillere;A spoon;0;0
+menace;threat;0;0
+C’est dommage;What a shame;0;0
+ebouriffee;disheveled;0;0
+traverser;crosse;0;0
+peripherie;outskirt;0;0
+aube;dawn;0;0
+luisant;gleaming;0;0
+souffrir;suffer;0;0
+ennemy;foe;0;0
+peu etre;perhaps;0;0
+raser;shave;0;0
+excuser;apologized;0;0
+disposer a;willing;0;0
+imprudent;recklessly;0;0
+paradi;heaven;0;0
+Un distributeur (billet);An ATM;0;0
+au dessu;above;0;0
+Se depecher;To hurry;0;0
+malade;sick;0;0
+errant;wandering;0;0
+accorder;grant;0;0
+violeur;rapist;0;0
+pur;sheer;0;0
+Une honte;A shame;0;0
+en plus que sa;on top of that;0;0
+evaluation;assessment;0;0
+pecher;sins;0;0
+Ca suffit;That’s enough;0;0
+defaut/impecable;flaw/flawless;0;0
+Brise (vent);breeze;0;0
+fillet;nets;0;0
+content;glad;0;0
+ni;nor;0;0
+errer;stray;0;0
+Un peu;A bit;0;0
+sans relache;relentlessly;0;0
+repere/antre;lair;0;0
+guepe;wasp;0;0
+liberer;unleash;0;0
+en outre;in addition;0;0
+Je vais/ dans limedia ou le future;I shall;0;0
+a peine;barely;0;0
+royaume;realm;0;0
+en effet;indeed;0;0
+Je t’en prie;You’re welcome;0;0
+mefiant;wary;0;0
+assez;quite;0;0
+Une tante;An aunt;0;0
+En fait;actually;0;0
+gentil;kind;0;0
+sol;soil;0;0
+commander;To order;0;0
+bon marcher;cheap;0;0
+regard long;stare;0;0
+reconnaissant;grateful;0;0
+durement;harshly;0;0
+miser;stake;0;0
+soit;whether;0;0
+inquiete;worried;0;0
+Une entree (repas);An appetizer;0;0
+cherie;darling;0;0
+poursuivre;chasing;0;0
+a traver;through;0;0
+apres;afterward;0;0
+parmi;among;0;0
+lache;coward;0;0
+Se tromper;To go wrong;0;0
+Je suis un peu presse;I’m in a bit of a hurry;0;0
+repos;rest;0;0
+tester;tasted;0;0
+neanmoins;nonetheless;0;0
+formidable;wonderfull;0;0
+pendant un certain temps;for a while;0;0
+monnaie;currency;0;0
+bien que;although;0;0
+defaut/faiblesse;shortcomming;0;0
+apporter;bring;0;0
+epargner nous;spare us;0;0
+Avoir de l’importance;To matter;0;0
+injuste;unfair;0;0
+oser;dare;0;0
+depense;spending;0;0
+ligne de mire;line of sight;0;0
+fleau;scourge;0;0
+Une assiette;A plate;0;0
+meprisable;despicable;0;0
+suite;sequel;0;0
+jeunot;greenhorn;0;0
+porter;carrying;0;0
+dune maniere ou dune autre;somehow;0;0
+coin/acro;wedge;0;0
+Fier;proude;0;0
+boue;mud;0;0
+magnifique;stunning;0;0
+degoutant;disgusting;0;0

@@ -34,6 +34,7 @@ SRCS			=	$(addprefix $(SRCDIR)/,$(CPPFILES))
 
 OBJS			=	$(addprefix $(OBJDIR)/,$(CPPFILES:.cpp=.o))
 
+
 DEPS			=   $(OBJS:%.o=%.d)
 
 DEBUG			=	0
@@ -44,10 +45,11 @@ ifeq ($(DEBUG), 1)
 endif
 
 
+
 all							:	$(NAME)
 
 $(NAME)						:	$(OBJDIR) $(OBJS)
-								@$(COMPILER) $(CXXFLAGS) -I$(HDIR) $(OBJS) -o $(NAME)
+								@$(COMPILER) $(CXXFLAGS) -I$(HDIR) $(OBJS) -lcurl -o $(NAME)
 								@echo "$(NAME) created"
 	
 $(OBJDIR)					:

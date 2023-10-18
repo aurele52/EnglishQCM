@@ -30,11 +30,11 @@ class aureleQCM
 
 		void	addWord( std::string eng, std::string fr, std::string hint);
 		void	start( int number );
-		std::string	api(std::string word);
 		aureleQCM( void );
 		aureleQCM( aureleQCM const & src );
 		~aureleQCM( void );
 		aureleQCM & operator=( aureleQCM const & rhs );
+		int translate(std::string &eng, std::string &fr);
 
 
 	private:
