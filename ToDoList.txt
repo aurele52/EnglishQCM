@@ -1,0 +1,14 @@
+1. make a better main
+2. If deepl trad not work, remove 1 cin
+3. insensitivecase for all condition
+4. remove pico
+5. add ifndef
+6. clean makefile
+7. add backup
+8. level down if false
+9. add last time learn stat and list
+10. add number of word for today
+11. make it in js with node.js
+12. make browser version with html css
+13. make android version with flutter
+

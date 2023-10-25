@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Secret Messages</title>
+	</head>
+	<body>
+		<button id="add-button"> Add to database </button>
+		<button id="start-button"> start QCM </button>
+		<form id="add-form" style="display: none" action="" method="get"
+		class="add-form">
+			<div class="add-form">
+				<label for="eng:">Eng: </label>
+				<input type="text" name="eng" id="addEng" required />
+			</div>
+			<div class="add-form">
+				<label for="fr">Fr: </label>
+				<input type="text" name="fr" id="addFr" required />
+			</div>
+			<div class="add-form">
+				<label for="Hint">Hint: </label>
+				<input type="text" name="addHint" id="hint" />
+			</div>
+			<div class="add-form">
+				<input type="submit" value="Add the word" />
+			</div>
+		</form>
+		<form id="start-form" style="display: none" action="" method="get"
+		class="start-form">
+				<label> Test : </label>
+			<div class="start-form">
+				<label for="fr:">Fr: </label>
+				<input type="text" name="fr" id="startFr" required />
+			</div>
+			<div class="start-form">
+				<input type="submit" value="Maybe is that" />
+			</div>
+		</form>
+		<script src="./main.js"> </script>
+	</body>
+</html>

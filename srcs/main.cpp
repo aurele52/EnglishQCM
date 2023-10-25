@@ -1,4 +1,5 @@
 #include "../headers/main.hpp"
+#include <boost/algorithm/string/predicate.hpp>
 
 
 int	main(int argc, char** argv)
@@ -11,9 +12,9 @@ int	main(int argc, char** argv)
 	std::string hint;
 	std::string number;
 
-	std::cout << "Enter an instruction among ADD, START and EXIT" << std::endl;
 	while (test != "EXIT")
 	{
+		std::cout << "Enter an instruction among ADD, START and EXIT" << std::endl;
 		std::getline(std::cin, test);
 		if (std::cin.eof())
 			return (0);
@@ -37,6 +38,31 @@ int	main(int argc, char** argv)
 				}
 			}
 			qcm.translate(eng, fr);
+			std::string rep;
+			while (rep.length() == 0)
+			{
+				std::cout << "The french traduction of " << eng << "is " << fr << std::endl;
+				std::getline(std::cin, rep);
+				if (std::cin.eof())
+					return (0);
+			}
+			if (boost::iequals(rep, "n") || boost::iequals(rep, "non"))
+			{
+				while (eng.length() == 0)
+				{
+					std::cout << "eng:";
+					std::getline(std::cin, eng);
+					if (std::cin.eof())
+						return (0);
+				}
+				while (fr.length() == 0)
+				{
+					std::cout << "fr:";
+					std::getline(std::cin, fr);
+					if (std::cin.eof())
+						return (0);
+				}
+			}
 			while (hint.length() == 0)
 			{
 				std::cout << "hint:";
